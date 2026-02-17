@@ -1,4 +1,4 @@
-# stream_learn
+# stream_flutter
 
 A new Flutter project.
 
