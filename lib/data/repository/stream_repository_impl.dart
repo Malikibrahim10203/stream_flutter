@@ -14,7 +14,6 @@ class StreamRepositoryImpl implements StreamRepository{
 
       print(res.statusCode);
       yield data['results'][0]['name']['first'];
-      await Future.delayed(Duration(seconds: 3));
     }
   }
 }
